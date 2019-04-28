@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { FC } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-const App: React.FC = () => {
+const App: FC = () => {
   return (
     <div className="App">
       <header className="App-header">
@@ -17,6 +17,7 @@ const App: React.FC = () => {
           rel="noopener noreferrer"
         >
           Learn React
+          っっっっっっっっっっっっっっっｔsss
         </a>
       </header>
     </div>
