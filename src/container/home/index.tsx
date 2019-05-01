@@ -18,7 +18,7 @@ const Home: FC = () => {
           rel="noopener noreferrer"
         >
           Learn React
-          っっっっっっっっっっっっっっっｔsss
+          ora
         </a>
         <Link to='/blog/'>blog</Link>
       </header>
