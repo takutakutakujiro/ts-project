@@ -1,7 +1,6 @@
 {
-  "nape": "!!ribery!!",
-  "short_name": "hellow! ribery!",
-  "Scope": "/",
+  "nape": "hellow! ribery!",
+  "short_name": "!!ribery!!",
   "start_url": "/",
   "icons": [
     {
@@ -45,7 +44,7 @@
       "type": "image/png"
     }
   ],
-  "display": "standalone",
+  "display": "browser",
   "theme_color": "#4682b4",
   "background_color": "#ffffff"
 }
